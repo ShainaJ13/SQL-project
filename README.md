@@ -14,6 +14,7 @@ Project Objectives
 1. Explore products currently in inventory.
 2. Determine important factors that may influence inventory reorganization/reduction.
 3. Provide analytic insights and data-driven recommendations.
+   
 Your Challenge
 
 Your challenge will be to conduct an exploratory data analysis to investigate if there are any patterns or themes that may influence the reduction or reorganization of inventory in the Mint Classics storage facilities. To do this, you will import the database and then analyse data. You will also pose questions, and seek to answer them meaningfully using SQL queries to retrieve data from the database provided.
